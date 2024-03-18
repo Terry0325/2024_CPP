@@ -1,2 +1,2 @@
 # 2024_CPP
-homework
+This repo is my c++ repo for school homework.
